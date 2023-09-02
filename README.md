@@ -3,6 +3,8 @@
 
 A Fast and Efficient Course Scheduling Software
 
-website
+[website/网址]:(http://coursemaster.top/)
 
-http://coursemaster.top/
+
+
+
